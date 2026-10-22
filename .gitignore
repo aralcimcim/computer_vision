@@ -1,0 +1,17 @@
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pth
+*.pt
+*.ckpt
